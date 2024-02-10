@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rinma-indle3/static/css/main.a767d9eb.css",
+    "main.js": "/rinma-indle3/static/js/main.9fa68f60.js",
+    "static/js/787.d4aba7ab.chunk.js": "/rinma-indle3/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/rinma-indle3/index.html",
+    "main.a767d9eb.css.map": "/rinma-indle3/static/css/main.a767d9eb.css.map",
+    "main.9fa68f60.js.map": "/rinma-indle3/static/js/main.9fa68f60.js.map",
+    "787.d4aba7ab.chunk.js.map": "/rinma-indle3/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a767d9eb.css",
+    "static/js/main.9fa68f60.js"
+  ]
+}
